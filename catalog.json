@@ -1,0 +1,962 @@
+{
+ "schemaVersion": 1,
+ "revision": "2026-09-30-initial",
+ "exportedAt": "2026-09-30T00:00:00.000Z",
+ "categories": [
+  {
+   "id": "cat-mandatory",
+   "name": "Обязательные программы обучения"
+  },
+  {
+   "id": "cat-professions",
+   "name": "Программы обучения по профессиям"
+  },
+  {
+   "id": "cat-hse",
+   "name": "Обучение по программам HSE"
+  }
+ ],
+ "courses": [
+  {
+   "id": "c-001",
+   "title": "«Общие требования к перевозке опасных грузов автомобильным транспортом» 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~RK2x0"
+  },
+  {
+   "id": "c-002",
+   "title": "Безопасность работ в ЭУ для эл.технол. персонала 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~Z4ill"
+  },
+  {
+   "id": "c-003",
+   "title": "Безопасность работ в ЭУ для эл.технол. персонала 24ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~723fg"
+  },
+  {
+   "id": "c-004",
+   "title": "БиОТ 24ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~pm61W"
+  },
+  {
+   "id": "c-005",
+   "title": "БиОТ 40ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~TngBr"
+  },
+  {
+   "id": "c-006",
+   "title": "БиОТ 72ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~aWvML"
+  },
+  {
+   "id": "c-007",
+   "title": "ГОР 24ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~HM5Wx"
+  },
+  {
+   "id": "c-008",
+   "title": "ГПМ (надзор) 24, 40ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~LjY0R"
+  },
+  {
+   "id": "c-009",
+   "title": "ГПМ (производство) 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~Pi5LN"
+  },
+  {
+   "id": "c-010",
+   "title": "ГПМ (производство) 24, 40ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~dV8Et"
+  },
+  {
+   "id": "c-011",
+   "title": "ГПМ (содержание) 24, 40ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~6BR1P"
+  },
+  {
+   "id": "c-012",
+   "title": "ЛВЖиГЖ 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~RBxGw"
+  },
+  {
+   "id": "c-013",
+   "title": "Метанол и одорант 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~fDIkQ"
+  },
+  {
+   "id": "c-014",
+   "title": "Метанол и одорант 24 ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~nIb71"
+  },
+  {
+   "id": "c-015",
+   "title": "Оказание первой помощи 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~K1gXe"
+  },
+  {
+   "id": "c-016",
+   "title": "Оператор КУ 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~5q4u1"
+  },
+  {
+   "id": "c-017",
+   "title": "Основы электробезопасности 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~j9ON1"
+  },
+  {
+   "id": "c-018",
+   "title": "ПБ 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~KCdt8"
+  },
+  {
+   "id": "c-019",
+   "title": "ПБ 40ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~xNoNL"
+  },
+  {
+   "id": "c-020",
+   "title": "Прекурсоры 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~MDBgS"
+  },
+  {
+   "id": "c-021",
+   "title": "Прекурсоры 24ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~JYSUb"
+  },
+  {
+   "id": "c-022",
+   "title": "ПТМ для ответственных 12ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~2e5Z4"
+  },
+  {
+   "id": "c-023",
+   "title": "ПТМ для рабочих 12ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~pz16C"
+  },
+  {
+   "id": "c-024",
+   "title": "ПТМ для руководителей 8ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~3DJ2G"
+  },
+  {
+   "id": "c-025",
+   "title": "Работа на высоте 30ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~TWEq9"
+  },
+  {
+   "id": "c-026",
+   "title": "СВД 24ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~FEfRn"
+  },
+  {
+   "id": "c-027",
+   "title": "СДЯВ 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~lQ44t"
+  },
+  {
+   "id": "c-028",
+   "title": "Стропальщики 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~r5aKI"
+  },
+  {
+   "id": "c-029",
+   "title": "Тех.инспектора 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~Jucwe"
+  },
+  {
+   "id": "c-030",
+   "title": "Хим.лаборатория 10ч",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~6LEZn"
+  },
+  {
+   "id": "c-031",
+   "title": "Эл.безопасность (до и выше 1000В) 40ч. (доп)",
+   "categoryId": "cat-mandatory",
+   "url": "https://my.qgrnd.kz/~j1RW2"
+  },
+  {
+   "id": "c-032",
+   "title": "Аккумуляторщик 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~YT6iF"
+  },
+  {
+   "id": "c-033",
+   "title": "Бурильщик, Пом.бур. 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~XInd2"
+  },
+  {
+   "id": "c-034",
+   "title": "Изолировщик трубопроводов от коррозии 36ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~JNTAK"
+  },
+  {
+   "id": "c-035",
+   "title": "Машинист ДКС",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~Zb1W3"
+  },
+  {
+   "id": "c-036",
+   "title": "Машинист мостового крана, управляемого с кабины 40 ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~OvJrq"
+  },
+  {
+   "id": "c-037",
+   "title": "Машинист ТК 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~4S3pE"
+  },
+  {
+   "id": "c-038",
+   "title": "Монтер по ЗПТотК 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~EYcbe"
+  },
+  {
+   "id": "c-039",
+   "title": "Оператор ГРС 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~uyK7M"
+  },
+  {
+   "id": "c-040",
+   "title": "Оператор крана управляемого с пола 32ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~wFjmI"
+  },
+  {
+   "id": "c-041",
+   "title": "Оператор КУ 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~BqxbG"
+  },
+  {
+   "id": "c-042",
+   "title": "Оператор по ДНиГ 36 ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~NQld2"
+  },
+  {
+   "id": "c-043",
+   "title": "Оператор по ИС 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~pbqGw"
+  },
+  {
+   "id": "c-044",
+   "title": "Приборист 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~WszGm"
+  },
+  {
+   "id": "c-045",
+   "title": "Слесарь АВР 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~hPf0K"
+  },
+  {
+   "id": "c-046",
+   "title": "Слесарь по КИПиА 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~4OVyN"
+  },
+  {
+   "id": "c-047",
+   "title": "Слесарь по ремонту ТУ 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~JEE0G"
+  },
+  {
+   "id": "c-048",
+   "title": "Слесарь по ЭиРПГ 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~kTgPu"
+  },
+  {
+   "id": "c-049",
+   "title": "Слесарь-ремонтник службы ЭВС 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~2gFXB"
+  },
+  {
+   "id": "c-050",
+   "title": "Стропальщики 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~V42e1"
+  },
+  {
+   "id": "c-051",
+   "title": "Трубопроводчик линейный 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~w3bd7"
+  },
+  {
+   "id": "c-052",
+   "title": "Электромонтер по ремонту ВЛ ЭП 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~FUYTt"
+  },
+  {
+   "id": "c-053",
+   "title": "Электромонтер по РиОЭО 40ч",
+   "categoryId": "cat-professions",
+   "url": "https://my.qgrnd.kz/~TqKCF"
+  },
+  {
+   "id": "c-054",
+   "title": "IOSH Managing Safely",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~bi0Hq"
+  },
+  {
+   "id": "c-055",
+   "title": "IOSH Working Safely",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~j14O7"
+  },
+  {
+   "id": "c-056",
+   "title": "Vision Zero (Нулевой травматизм)",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~V6sM8"
+  },
+  {
+   "id": "c-057",
+   "title": "Вайб-кодинг и AI-инструменты в корпоративной среде 1 ч",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~57a5Z"
+  },
+  {
+   "id": "c-058",
+   "title": "Культура безопасности труда 24ч",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~6WWAI"
+  },
+  {
+   "id": "c-059",
+   "title": "ПАБ 6ч",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~LkS6K"
+  },
+  {
+   "id": "c-060",
+   "title": "Расследование происшествий в соответствии с ВНД 16 ч",
+   "categoryId": "cat-hse",
+   "url": "https://my.qgrnd.kz/~J3gqu"
+  }
+ ],
+ "survey": {
+  "title": "Оценка удовлетворенности слушателей",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSftiDhA2JCpPOJ0dIRw_hN7geRymEkDOWM1pNKah1q2guQ7zQ/viewform?usp=dialog"
+ },
+ "schedule": {
+  "resources": [
+   {
+    "id": "zoom-01",
+    "name": "Zoom 01",
+    "zoomId": "978 413 3904",
+    "joinUrl": "https://zoom.us/j/9784133904?pwd=8e7qx5r7IymdJimpsammYZacttJfCS.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-06",
+    "name": "Zoom 02",
+    "zoomId": "230 352 0291",
+    "joinUrl": "https://zoom.us/j/2303520291?pwd=q10gIG8P0gqEbt2XEL3S9uaPzTObja.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-02",
+    "name": "Zoom 03",
+    "zoomId": "354 292 4835",
+    "joinUrl": "https://zoom.us/j/3542924835?pwd=W2KjyDpRnJvbeJ5ynrW8WYBgKg9CLT.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-03",
+    "name": "Zoom 04",
+    "zoomId": "773 761 0478",
+    "joinUrl": "https://zoom.us/j/7737610478?pwd=igk3uevyeHvVf83ZRvMtvPekUoKLK5.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-05",
+    "name": "Zoom 05",
+    "zoomId": "334 046 4438",
+    "joinUrl": "https://zoom.us/j/3340464438?pwd=YFjhSA9VuBrVb5bWwxqfNs8aWj0hUT.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-04",
+    "name": "Zoom 06",
+    "zoomId": "276 101 4864",
+    "joinUrl": "https://zoom.us/j/2761014864?pwd=wmah8AZ8mkD1Mjmee5bYtPfImK1Qs5.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-07",
+    "name": "Zoom 07",
+    "zoomId": "828 097 8366",
+    "joinUrl": "https://zoom.us/j/8280978366?pwd=t3vs4afCQBtYMSBUWJO1TJ00GCKXoH.1",
+    "active": true,
+    "permanent": true
+   },
+   {
+    "id": "zoom-08",
+    "name": "Zoom 08",
+    "zoomId": "937 210 8146",
+    "joinUrl": "https://zoom.us/j/9372108146?pwd=DysrhfxuXitV5hmVtRAZBa5IqLQaeM.1",
+    "active": true,
+    "permanent": true
+   }
+  ],
+  "bookings": [
+   {
+    "id": "demo-1",
+    "title": "ПТМ",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-15",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Жумагазин Ж.А.",
+    "comment": null,
+    "color": "yellow",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:41.144276+00:00"
+   },
+   {
+    "id": "demo-10",
+    "title": "IOSH",
+    "zoomResourceId": null,
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-18",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Олжатаев Д.К.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:34.70844+00:00"
+   },
+   {
+    "id": "demo-11",
+    "title": "БиОТ GPCI",
+    "zoomResourceId": "zoom-06",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-18",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Ергужиев Б.",
+    "comment": null,
+    "color": "cream",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:26.504078+00:00"
+   },
+   {
+    "id": "demo-12",
+    "title": "МашТК АГП",
+    "zoomResourceId": null,
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-18",
+    "responsible": "Ордабек А.",
+    "curator": "Капаков Е.С.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:19.775469+00:00"
+   },
+   {
+    "id": "demo-2",
+    "title": "БиОТ раб GPCI",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "responsible": "Ордабек А.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:13.598369+00:00"
+   },
+   {
+    "id": "demo-3",
+    "title": "ПАБ Атырау",
+    "zoomResourceId": null,
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-14",
+    "responsible": "Кембаева Г.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:07.960019+00:00"
+   },
+   {
+    "id": "demo-4",
+    "title": "ГПМ",
+    "zoomResourceId": "zoom-02",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-16",
+    "responsible": "Ордабек А.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "sand",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:52:00.598552+00:00"
+   },
+   {
+    "id": "demo-5",
+    "title": "Строп",
+    "zoomResourceId": "zoom-02",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-18",
+    "responsible": "Ордабек А.",
+    "curator": "Алтыбаев Н.А.",
+    "comment": null,
+    "color": "peach",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:51:53.235863+00:00"
+   },
+   {
+    "id": "demo-6",
+    "title": "ПТМ GPCI",
+    "zoomResourceId": "zoom-03",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "responsible": "Ордабек А.",
+    "curator": "Жумагазин Ж.А.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:51:44.286649+00:00"
+   },
+   {
+    "id": "demo-7",
+    "title": "Культура",
+    "zoomResourceId": "zoom-04",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "responsible": "Ордабек А.",
+    "curator": "Мендигалиева Ш.С.",
+    "comment": null,
+    "color": "mint",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:51:34.479289+00:00"
+   },
+   {
+    "id": "demo-8",
+    "title": "Расслед",
+    "zoomResourceId": "zoom-05",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-18",
+    "responsible": "Ордабек А.",
+    "curator": "Аскарова Б",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:50:09.469504+00:00"
+   },
+   {
+    "id": "demo-9",
+    "title": "ПАБ Шым",
+    "zoomResourceId": null,
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-17",
+    "responsible": "Кембаева Г.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-15T08:36:46.423077+00:00",
+    "updatedAt": "2026-09-17T04:51:23.145994+00:00"
+   },
+   {
+    "id": "b-mu2gdprv-5z5qol",
+    "title": "Расследование происшествий",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-22",
+    "responsible": "Ордабек А.",
+    "curator": "Аскарова Б.К.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T09:12:07.775051+00:00",
+    "updatedAt": "2026-09-17T04:52:49.695972+00:00"
+   },
+   {
+    "id": "b-mu2gdy5h-72aafo",
+    "title": "Расследование происшествий",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-25",
+    "responsible": "Ордабек А.",
+    "curator": "Аскарова Б.К.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-15T09:12:18.60196+00:00",
+    "updatedAt": "2026-09-17T04:52:55.691083+00:00"
+   },
+   {
+    "id": "b-mu2ge79d-ztqb93",
+    "title": "ПТМ",
+    "zoomResourceId": "zoom-02",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-25",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "peach",
+    "createdAt": "2026-09-15T09:12:30.447322+00:00",
+    "updatedAt": "2026-09-17T04:53:04.225218+00:00"
+   },
+   {
+    "id": "b-mu2gefx2-32oait",
+    "title": "ПАБ Алмат",
+    "zoomResourceId": null,
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-15T09:12:41.65298+00:00",
+    "updatedAt": "2026-09-17T04:53:11.102721+00:00"
+   },
+   {
+    "id": "b-mu2gem3n-ograi2",
+    "title": "ПАБ Алматы",
+    "zoomResourceId": null,
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-15T09:12:49.664453+00:00",
+    "updatedAt": "2026-09-17T04:53:17.461733+00:00"
+   },
+   {
+    "id": "b-mu2geu3r-d00tdg",
+    "title": "ПАБ Актобе",
+    "zoomResourceId": null,
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Жумагазин Ж.А.",
+    "comment": null,
+    "color": "mint",
+    "createdAt": "2026-09-15T09:13:00.049003+00:00",
+    "updatedAt": "2026-09-17T04:53:23.313306+00:00"
+   },
+   {
+    "id": "b-mu2gf2mz-llndt4",
+    "title": "БиОТ - 40ч",
+    "zoomResourceId": "zoom-06",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-25",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Мендигалиева Ш.С.",
+    "comment": null,
+    "color": "yellow",
+    "createdAt": "2026-09-15T09:13:11.126692+00:00",
+    "updatedAt": "2026-09-17T05:11:10.873255+00:00"
+   },
+   {
+    "id": "b-mu2gf9jn-ysgu84",
+    "title": "IOSH курсовое",
+    "zoomResourceId": null,
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-25",
+    "responsible": "Кембаева Г.",
+    "curator": "Олжатаев Д.К.",
+    "comment": null,
+    "color": "gray",
+    "createdAt": "2026-09-15T09:13:20.037971+00:00",
+    "updatedAt": "2026-09-17T04:53:35.537577+00:00"
+   },
+   {
+    "id": "b-mu2gfq4e-thad6s",
+    "title": "Электромонтер АГП Шымкент",
+    "zoomResourceId": null,
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-25",
+    "responsible": "Ордабек А.",
+    "curator": "Алтыбаев Н.А.",
+    "comment": null,
+    "color": "gray",
+    "createdAt": "2026-09-15T09:13:41.570067+00:00",
+    "updatedAt": "2026-09-17T04:53:43.952575+00:00"
+   },
+   {
+    "id": "b-mu2gfw4l-54uej8",
+    "title": "МашТК АГП Шымкент",
+    "zoomResourceId": null,
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-25",
+    "responsible": "Ордабек А.",
+    "curator": "Капаков Е.С.",
+    "comment": null,
+    "color": "gray",
+    "createdAt": "2026-09-15T09:13:49.293805+00:00",
+    "updatedAt": "2026-09-17T04:53:51.070406+00:00"
+   },
+   {
+    "id": "b-mu434vx0-6n42p9",
+    "title": "ПБ-10ч",
+    "zoomResourceId": "zoom-07",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-18",
+    "responsible": "Ордабек А.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-16T12:36:53.350161+00:00",
+    "updatedAt": "2026-09-17T04:50:00.573852+00:00"
+   },
+   {
+    "id": "b-muanqgp8-ihduv2",
+    "title": "БиОТ рабочий GPCI",
+    "zoomResourceId": "zoom-02",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-22",
+    "responsible": "Ордабек А.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "mint",
+    "createdAt": "2026-09-21T03:00:10.089805+00:00",
+    "updatedAt": "2026-09-21T03:00:10.089805+00:00"
+   },
+   {
+    "id": "b-muanrt47-wbf6nu",
+    "title": "ГПМ",
+    "zoomResourceId": "zoom-03",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-24",
+    "responsible": "Ордабек А.",
+    "curator": "Жумагазин Ж.А.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-21T03:01:12.777788+00:00",
+    "updatedAt": "2026-09-21T03:01:12.777788+00:00"
+   },
+   {
+    "id": "b-mub8m24a-w649db",
+    "title": "Расследование происшествий",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-28",
+    "endDate": "2026-09-29",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Аскарова Б.К.",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-21T12:44:34.547102+00:00",
+    "updatedAt": "2026-09-21T12:44:34.547102+00:00"
+   },
+   {
+    "id": "b-mub8qf2o-97rn1x",
+    "title": "ПТМ",
+    "zoomResourceId": "zoom-06",
+    "startDate": "2026-09-28",
+    "endDate": "2026-09-29",
+    "responsible": "Ордабек А.",
+    "curator": "Жумагазин Ж.А.",
+    "comment": null,
+    "color": "pink",
+    "createdAt": "2026-09-21T12:47:57.90468+00:00",
+    "updatedAt": "2026-09-21T12:52:21.519443+00:00"
+   },
+   {
+    "id": "b-mub8qzu8-s530v7",
+    "title": "Vision Zero",
+    "zoomResourceId": "zoom-02",
+    "startDate": "2026-09-28",
+    "endDate": "2026-09-29",
+    "responsible": "Ордабек А.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "lavender",
+    "createdAt": "2026-09-21T12:48:24.819053+00:00",
+    "updatedAt": "2026-09-21T12:52:28.221644+00:00"
+   },
+   {
+    "id": "b-mub8rjmq-13xosn",
+    "title": "Культура безопасности",
+    "zoomResourceId": "zoom-03",
+    "startDate": "2026-09-28",
+    "endDate": "2026-09-30",
+    "responsible": "Кембаева Г.",
+    "curator": "Мендигалиева Ш.С.",
+    "comment": null,
+    "color": "cream",
+    "createdAt": "2026-09-21T12:48:50.474102+00:00",
+    "updatedAt": "2026-09-21T12:52:35.006998+00:00"
+   },
+   {
+    "id": "b-mub8s8vg-b29evt",
+    "title": "Vision Zero",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-30",
+    "endDate": "2026-10-01",
+    "responsible": "Ордабек А.",
+    "curator": "Абилдаев А.Б.",
+    "comment": null,
+    "color": "lavender",
+    "createdAt": "2026-09-21T12:49:23.197575+00:00",
+    "updatedAt": "2026-09-21T12:52:40.036733+00:00"
+   },
+   {
+    "id": "b-mub8tf73-bd5hm1",
+    "title": "ПАБ",
+    "zoomResourceId": null,
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-02",
+    "responsible": "Ордабек А.",
+    "curator": "Абилдаев А.Б.",
+    "comment": "Курсовое обучение",
+    "color": "gray",
+    "createdAt": "2026-09-21T12:50:18.052273+00:00",
+    "updatedAt": "2026-09-21T12:53:07.723643+00:00"
+   },
+   {
+    "id": "b-mub8ubuh-uhlqqj",
+    "title": "IOSH",
+    "zoomResourceId": "zoom-05",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-01",
+    "responsible": "Кембаева Г.",
+    "curator": "Олжатаев Д.К.",
+    "comment": null,
+    "color": "yellow",
+    "createdAt": "2026-09-21T12:51:00.402739+00:00",
+    "updatedAt": "2026-09-21T12:52:51.019877+00:00"
+   },
+   {
+    "id": "b-mub8vbra-oeysoz",
+    "title": "Электромонтер по РиОЭ",
+    "zoomResourceId": null,
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-02",
+    "responsible": "Ордабек А.",
+    "curator": "Алтыбаев Н.А.",
+    "comment": "Курсовое обучение в г. Шымкент",
+    "color": "gray",
+    "createdAt": "2026-09-21T12:51:46.915505+00:00",
+    "updatedAt": "2026-09-21T12:52:55.284904+00:00"
+   },
+   {
+    "id": "b-mub8vwrh-a2wlx1",
+    "title": "Слесарь по ремонту ТУ",
+    "zoomResourceId": null,
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-02",
+    "responsible": "Ордабек А.",
+    "curator": "Капаков Е.С.",
+    "comment": "Курсовое обучение в Шымкенте",
+    "color": "gray",
+    "createdAt": "2026-09-21T12:52:14.114942+00:00",
+    "updatedAt": "2026-09-21T12:52:59.770254+00:00"
+   },
+   {
+    "id": "b-mucbg7j4-ln3i01",
+    "title": "ПБ-40ч экзамен",
+    "zoomResourceId": "zoom-01",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "responsible": "Кембаева Г.",
+    "curator": null,
+    "comment": null,
+    "color": "yellow",
+    "createdAt": "2026-09-22T06:51:47.593424+00:00",
+    "updatedAt": "2026-09-22T06:51:47.593424+00:00"
+   },
+   {
+    "id": "b-mukw6gs9-khfwvg",
+    "title": "ПБ-10ч 1гр.",
+    "zoomResourceId": "zoom-04",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "responsible": "Ордабек Х.",
+    "curator": "Ергужиев Б.Б. (замена Аманшиев А.Д.)",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-28T06:54:18.195132+00:00",
+    "updatedAt": "2026-09-28T07:15:34.46331+00:00"
+   },
+   {
+    "id": "b-mukw75ep-5m4iqw",
+    "title": "ПБ-10ч 1гр.",
+    "zoomResourceId": "zoom-04",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-02",
+    "responsible": "Ордабек Х.",
+    "curator": "Ергужиев Б.Б. (замена Аманшиев А.Д.)",
+    "comment": null,
+    "color": "blue",
+    "createdAt": "2026-09-28T06:54:50.006594+00:00",
+    "updatedAt": "2026-09-28T07:15:41.364826+00:00"
+   },
+   {
+    "id": "b-mukwylj6-xvm19j",
+    "title": "ПБ-10ч 2гр.",
+    "zoomResourceId": "zoom-07",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "responsible": "Кембаева Г.К.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-28T07:16:10.691069+00:00",
+    "updatedAt": "2026-09-28T07:16:18.023804+00:00"
+   },
+   {
+    "id": "b-mukwzalu-gs1a9x",
+    "title": "ПБ-10ч 2гр.",
+    "zoomResourceId": "zoom-07",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-02",
+    "responsible": "Кембаева Г.",
+    "curator": "Аманшиев А.Д.",
+    "comment": null,
+    "color": "green",
+    "createdAt": "2026-09-28T07:16:43.190726+00:00",
+    "updatedAt": "2026-09-28T07:16:43.190726+00:00"
+   }
+  ]
+ }
+}
